@@ -51,7 +51,7 @@ Para concluir este Desafio de Projeto, basta enviar a **URL do seu "fork" de um 
 
 > [!NOTE]   
 > Por exemplo, a URL https://github.com/falvojr/dio-lab-open-source é o "**fork**" feito pelo usuário do GitHub "`falvojr`" para a contribuição no repositório `dio-lab-open-source`.
-
+`git checkout -b feat/community/GustavGregory´
 ### Contribua com seu Profile README
 Para contribuir neste repositório, uma das formas é através da contribuição no diretório "**community**", criando um Profile README contendo informações sobre você que deseje compartilhar com a comunidade. <br>
 Para isso, você pode inserir: badges indicando suas habilidades; cards com suas estatísticas no GitHub e projetos que criou, colaborou ou que deseje que outras pessoas colaborem. Além disso, você pode inserir também links para seus desafios de projeto e artigos na plataforma da [Digital Innovation One](https://www.dio.me/). <br>
@@ -78,6 +78,8 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
 [![Star](https://img.shields.io/github/stars/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/stargazers)
 [![Forks](https://img.shields.io/github/forks/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/forks)
 [![GitHub Issues](https://img.shields.io/github/issues/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/issues/)
+
+
 
  Este é um projeto feito para a comunidade, então sinta-se livre para contribuir. Algumas formas de contribuição além do seu exemplo de Profile README, é inserir outros utilitários na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils), ou melhorar a página de pesquisa dos READMEs fazendo modificações nos arquivos da pasta [`docs`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/docs). <br>
  Além disso, você também pode contribuir:
